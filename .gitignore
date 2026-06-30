@@ -1,0 +1,34 @@
+# MATLAB temporary/cache files
+*.asv
+*.m~
+*.mex*
+slprj/
+sccprj/
+codegen/
+
+# Runtime logs and temporary run outputs
+*.log
+*RunLog*.txt
+diary
+
+# Large manuscript/source documents
+*.doc
+*.docx
+
+# Generated figures and exported binary artifacts
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.fig
+*.pdf
+
+# Generated MATLAB result snapshots
+*.mat
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

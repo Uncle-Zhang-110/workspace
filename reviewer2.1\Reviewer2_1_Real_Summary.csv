@@ -1,0 +1,2 @@
+OptimalPriceScale,OptimalGCCScale,OptimalMuScale,BaselineEMOProfit_CNY,BaselineFeasible,MaxGainStrategy,MaxFeasibleDeviationGain_CNY,LocalEpsilon_CNY,RelativeEpsilonToAbsBaseline_pct,Tolerance_CNY,AllFeasibleWithinTolerance,Pass
+1.1,0.5,0,4046.24628318662,1,GCC reward +1%,-1.18001600000025,0,0,4.04624628318662,1,1

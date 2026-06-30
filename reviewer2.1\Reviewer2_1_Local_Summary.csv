@@ -1,0 +1,2 @@
+BaselineEMOProfit_CNY,BaselineFeasible,MaxGainStrategy,MaxFeasibleDeviationGain_CNY,MaxFeasibleDeviationGain_pct,LocalEpsilon_CNY,RelativeEpsilonToAbsBaseline_pct,Tolerance_CNY,Pass
+4046.24628318662,1,GCC reward +0.5%,-0.590008000001035,-0.0145816136415793,0,0,4.04624628318662,1

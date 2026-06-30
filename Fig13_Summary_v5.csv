@@ -1,0 +1,16 @@
+Item,Value
+ActiveHours,[9 10 11 12 13 14 15 16 17 18 19 20 21 22]
+ActiveSampleSize_n,14
+FitSlope_kWh_per_kVarh,46.8571203838609
+FitIntercept_kWh,74.3264222870625
+R_squared,0.762842630061288
+ApproxLinearFit_pValue,4.4987446905953e-05
+Spearman_rho,0.850549450549451
+Empirical_mu_eq_GEC_per_kVarh,0.0468571203838609
+Marginal_Value_CNY_per_kVarh,2.34285601919305
+Baseline_mu_GEC_per_kVarh,0.05
+RelativeGap_vs_Baseline_percent,6.28575923227814
+Total_Qeff_kVarh,47.2727395609781
+Total_DeltaE_kWh,3269.08495903432
+Total_Case6_Accom_kWh,9002.74166611319
+Total_Case8_Accom_kWh,12271.8266251475

@@ -1,0 +1,2 @@
+FixedTOUScale,FixedGCCScale,BaselineMuScale,BaselineEMOProfit_CNY,MinAverageACLoss_kW,MaxAverageACLoss_kW,MinAverageVoltageDeviation_kV,MaxAverageVoltageDeviation_kV,FeasibleCases,TotalCases
+1.1,0.5,1,56.8646400685939,8.70500357058696,11.5014357738895,0.178234361056015,0.208759741615675,25,25
